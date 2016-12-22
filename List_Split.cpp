@@ -8,7 +8,7 @@ extern bool generate_sums(int arry[], int arry_size, int k, int prev_sum);
 
 //function returns true if list can be split into two list with equal sum
 
-int main(){
+/*int main(){
 	const int list_sz = 7;
 	int list[list_sz];
 	list[0] = 4;
@@ -26,7 +26,7 @@ int main(){
 		cout << "can't be split" << endl;
 	}
 	system("pause");
-}
+}*/
 
 //example: list can be split: 4, 5, 6, | 7, 4, 3, 1
 
